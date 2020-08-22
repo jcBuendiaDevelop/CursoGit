@@ -1,3 +1,5 @@
 .curso{
     display: block;
+    background-attachment: fixed;
+    color: yellowgreen;
 }
